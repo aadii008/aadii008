@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aadii008/aadii008/blob/main/banner.png)
 <h1 align="center">  Hello, I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
 <h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
 
