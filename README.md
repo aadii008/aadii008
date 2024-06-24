@@ -1,11 +1,18 @@
 ![logo](https://github.com/aadii008/aadii008/blob/main/banner.png)
-<h1 align="center">  Hello, I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
+<h1 align="center">I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
 <h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
 
 ---
+- 🔭 I’m currently working on Neural Networks  
+- 🌱 I’m currently learning Artifical Intelegence and Machine Learning
+- ❓ Ask me about anything related to my domian, I am always 
+      ready  
+- 🔍 Reach me at: ✉️ aadi1262003@gmail.com
+- 😂 Here is a random joke that'll make you laugh!
 
-
-
+![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
+---
+  
 </p>
 
 ## 🛠  Tech Stack</h3>
