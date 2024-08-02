@@ -1,4 +1,4 @@
-![logo](https://github.com/aadii008/aadii008/blob/main/banner.png)
+![logo](https://github.com/neuewelt01/neuewelt01/blob/main/banner.png)
 <h1 align="center">I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
 <h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
 
