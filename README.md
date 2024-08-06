@@ -1,4 +1,4 @@
-![logo](https://github.com/neuewelt01/neuewelt01/blob/main/banner.png)
+![logo](https://github.com/aadii008/aadii008/blob/main/banner.png)
 <h1 align="center">I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
 <h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
 
@@ -22,14 +22,14 @@
 
 ## Connect with me  
 <p align="center">
-<a href="https://github.com/neuewelt01" target="_blank">
+<a href="https://github.com/aadii008" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/aadi008/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://aadix.vercel.app/" target="_blank">
+<a href="https://aadi08.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />  
 </a>
 <a href="https://twitter.com/aadii_008" target="_blank">
@@ -45,10 +45,10 @@
 
 <div align="center">
    
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=neuewelt01&count_private=true&theme=holi&show_icons=true&rank_icon=github)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=aadii008&count_private=true&theme=holi&show_icons=true&rank_icon=github)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuewelt01&layout=pie&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadii008&layout=pie&theme=holi)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
    
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=neuewelt01&theme=blueberry)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aadii008&theme=blueberry)
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=neuewelt01&color=blue&style=plastic&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=aadii008&color=blue&style=plastic&label=Profile+Views)
 
 </div>
