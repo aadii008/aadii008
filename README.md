@@ -45,10 +45,10 @@
 
 <div align="center">
    
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=aadii008&count_private=true&theme=holi&show_icons=true&rank_icon=github)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=adii008&count_private=true&theme=holi&show_icons=true&rank_icon=github)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadii008&layout=pie&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adii008&layout=pie&theme=holi)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
    
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aadii008&theme=blueberry)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=adii008&theme=blueberry)
 
 </div>
 
