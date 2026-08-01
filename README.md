@@ -1,76 +1,154 @@
 ![logo](https://github.com/aadii008/aadii008/blob/main/banner.png)
-<h1 align="center">I'm Aditya Gupta! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
-<h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
+
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+<h3 align="center">
+Software Engineer | Backend Developer | Java & Spring Boot | Agentic AI | RAG
+</h3>
 
 ---
-- 🔭 I’m currently working on Neural Networks  
-- 🌱 I’m currently learning Artifical Intelegence and Machine Learning
-- ❓ Ask me about anything related to my domian, I am always 
-      ready  
-- 🔍 Reach me at: ✉️ aadi1262003@gmail.com
-- 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
+## 👨‍💻 About Me
+
+- 💼 Software Engineer with **1+ year** of experience building **backend systems** and **AI-powered enterprise applications**
+- 🚀 Currently working on **Agentic AI**, **LangChain**, **LangGraph**, **RAG**, and **Model Context Protocol (MCP)**
+- 🌱 Currently exploring **Distributed Systems**, **Microservices**, **System Design**, and **LLM Engineering**
+- 💡 Passionate about building scalable backend systems with **Java**, **Spring Boot**, and modern AI technologies
+- 🧠 Strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **Database Management Systems**
+- 💬 Ask me about **Java**, **Spring Boot**, **REST APIs**, **LangChain**, **LangGraph**, **RAG**, **MCP**, **Backend Development**, and **System Design**
+- 📫 Reach me at **aadi1262003@gmail.com**
+- 😂 Here's a random joke that'll make you laugh!
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=github-dark&borderColor=%2330363d)
+
+</div>
+
 ---
-  
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
 
-## 🛠  Tech Stack</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-  </p>
+### ⚙️ Backend Development
 
-## Connect with me  
 <p align="center">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,docker,redis,kafka" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square"/>
+</p>
+
+---
+
+### 🤖 AI & LLM
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,html,css" />
+</p>
+
+---
+
+### 🗄️ Databases & Messaging
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka" />
+</p>
+
+---
+
+### 🛠 Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## Connect with me
+
+<p align="center">
+
 <a href="https://github.com/aadii008" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aadi008/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://aadi08.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />  
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://twitter.com/aadii_008" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="mailto:aadi1262003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/a.a.d.ii_008/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+
 </p>
- 
 
-## 📊 Stats
+---
 
-<div align="center">
-   
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=aadii008&count_private=true&theme=holi&show_icons=true&rank_icon=github)
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aadii008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aadii008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadii008&layout=pie&theme=holi)
+---
 
-</div>
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadii008&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 ## 📈 Contributions' Graph
 
-<div align="center">
-   
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aadii008&theme=blueberry)
+<p align="center">
 
-</div>
+![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadii008&theme=tokyo-night)
+
+</p>
 
 ---
 
 <p align="center">
-🤝 Let's connect and discuss tech, coding, and career aspirations!  <br />
-🌐 Always excited to connect with fellow technophiles and engage in meaningful discussions.
-  
+
+🤝 Let's connect and discuss **Backend Development, AI Systems, Agentic AI, and Software Engineering**. <br />
+🚀 Always learning, always building, and always open to collaborating on exciting projects.
+
 </p>
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aadii008&color=blue&style=plastic&label=Profile+Views)
 
 </div>
